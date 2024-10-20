@@ -1,5 +1,7 @@
 # odin-recipes
-the odin-recipes project aims to test and solidify the basics of html and git commands that have been covered 
-by the end of the project, I expect to have solidified html basics and have understanding of how the language works.
-this includes the use of html tags appropriately together with their attributes.
-further more, I am to make it my second nature to use git commands on the command line.
+The Odin Recipes project is designed to test and strengthen my understanding of both HTML and Git commands. By the end of this project, I aim to achieve the following goals:
+
+Solidify my grasp of basic HTML concepts, ensuring I can use HTML tags appropriately along with their attributes.
+Develop a deeper understanding of how HTML as a language works.
+Become proficient in using Git commands directly from the command line, making them second nature in my workflow.
+This project will serve as a practical way to apply and reinforce these foundational skills.
